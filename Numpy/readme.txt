@@ -1,0 +1,1 @@
+This folder contains all Numpy related learnings from Zero to Mastery Course from Udemy

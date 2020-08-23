@@ -1,0 +1,1 @@
+This folder contains all Scikit-learn related learnings from Zero to Mastery Course from Udemy
